@@ -1,0 +1,259 @@
+﻿ID,Category,Geometry_Problem
+1,Tam giác,Cho tam giác ABC nhọn . Vẽ đường cao AD và BE cắt nhau tại H .
+2,Hình học không gian,"Cho hình lăng trụ đứng ABC .A'B'C' có đáy là tam giác đều cạnh 3cm , chiều cao h = 10cm ."
+3,Tứ giác,Cho hình vuông MNPQ có cạnh bằng 4cm . Vẽ hai đường chéo cắt nhau tại O .
+4,Hình học không gian,"Cho hình chóp S .MNPQ có đáy là tam giác vuông tại M , SA vuông góc với đáy . Biết SA = 8cm ."
+5,Đường tròn,"Cho đường tròn (O; 3cm) và điểm A nằm ngoài đường tròn sao cho OA = 4cm . Vẽ tiếp tuyến AB , AC ."
+6,Tứ giác,"Cho hình thang ABCD vuông tại A và B , có đáy nhỏ AB = 12cm , đáy lớn BC = 4cm ."
+7,Hình học không gian,"Cho hình lăng trụ đứng ABC .A'B'C' có đáy là tam giác đều cạnh 5cm , chiều cao h = 15cm ."
+8,Tam giác,"Cho tam giác HIK cân tại H có HI = 10cm , góc H bằng 30 độ. Vẽ đường cao HH ."
+9,Tứ giác,"Cho hình thang MNPQ vuông tại M và N , có đáy nhỏ MN = 6cm , đáy lớn NP = 12cm ."
+10,Tứ giác,"Cho hình thang MNPQ vuông tại M và N , có đáy nhỏ MN = 10cm , đáy lớn NP = 12cm ."
+11,Hình học không gian,"Cho hình chóp S .ABCD có đáy là tam giác vuông tại A , SA vuông góc với đáy . Biết SA = 6cm ."
+12,Đường tròn,"Cho đường tròn tâm O bán kính 6cm và điểm A nằm ngoài đường tròn sao cho OA = 6cm . Vẽ tiếp tuyến AB , AC ."
+13,Đường tròn,Cho đường tròn tâm O bán kính 10cm.
+14,Hình học không gian,"Cho hình lăng trụ đứng ABC .A'B'C' có đáy là tam giác đều cạnh 5cm , chiều cao h = 12cm ."
+15,Tứ giác,"Cho hình bình hành MNPQ có MN = 4cm , NP = 10cm , góc M bằng 30 độ."
+16,Tứ giác,"Cho hình chữ nhật DEFG có cạnh DE = 12cm , EF = 12cm . Vẽ đường chéo DF ."
+17,Hình học không gian,"Cho hình chóp S .XYZ có đáy là tam giác vuông tại X , SA vuông góc với đáy . Biết SA = 8cm ."
+18,Tam giác,Cho tam giác DEF nhọn . Vẽ đường cao DD và EE cắt nhau tại H .
+19,Tứ giác,"Cho hình chữ nhật GXYZ có cạnh XY = 8cm , YZ = 4cm . Vẽ đường chéo XZ ."
+20,Tứ giác,"Cho hình chữ nhật ABCD có cạnh AB = 8cm , BC = 15cm . Vẽ đường chéo AC ."
+21,Tam giác,Cho tam giác DEF nhọn . Vẽ đường cao DD và EE cắt nhau tại H .
+22,Tam giác,Cho tam giác HIK đều cạnh bằng 3cm . Vẽ đường tròn ngoại tiếp tam giác HIK .
+23,Hình học không gian,"Cho hình lăng trụ đứng ABC .A'B'C' có đáy là tam giác đều cạnh 4cm , chiều cao h = 6cm ."
+24,Tứ giác,Cho hình thoi ABC có hai đường chéo AC = 6cm và BD = 12cm .
+25,Tứ giác,"Cho hình bình hành ABCD có AB = 4cm , BC = 4cm , góc A bằng 45 độ."
+26,Tam giác,Cho tam giác XYZ đều cạnh bằng 10cm . Vẽ đường tròn ngoại tiếp tam giác XYZ .
+27,Tam giác,Cho tam giác DEF đều cạnh bằng 8cm . Vẽ đường tròn ngoại tiếp tam giác DEF .
+28,Tọa độ Oxyz,"Trong không gian Oxyz , cho ba điểm A(6 ,0 ,0), B(0 ,5 ,0), C(0 ,0 ,2). Vẽ mặt phẳng (ABC)."
+29,Đường tròn,Cho hai đường tròn (O; 5cm) và (O'; 8cm) tiếp xúc ngoài tại A . Vẽ tiếp tuyến chung .
+30,Đường tròn,Cho tam giác DEF nội tiếp đường tròn (O; 10cm). Tìm tâm đường tròn nội tiếp tam giác .
+31,Hình học không gian,"Cho hình chóp S .ABC có đáy là tam giác vuông tại A , SA vuông góc với đáy . Biết SA = 4cm ."
+32,Hình học không gian,"Cho hình chóp S .MNP có đáy là tam giác vuông tại M , SA vuông góc với đáy . Biết SA = 12cm ."
+33,Tứ giác,"Cho hình chữ nhật MNPQ có cạnh MN = 6cm , NP = 8cm . Vẽ đường chéo MP ."
+34,Đường tròn,Cho tam giác DEF nội tiếp đường tròn (O; 3cm). Tìm tâm đường tròn nội tiếp tam giác .
+35,Hình học không gian,"Cho hình chóp tứ giác đều S .ABC có cạnh đáy bằng 4cm , cạnh bên bằng 5cm ."
+36,Tam giác,"Cho tam giác MNP cân tại M có MN = 8cm , góc M bằng 30 độ. Vẽ đường cao MH ."
+37,Tam giác,Cho tam giác DEF đều cạnh bằng 8cm . Vẽ đường tròn ngoại tiếp tam giác DEF .
+38,Tứ giác,"Cho hình bình hành XYZT có XY = 8cm , YZ = 10cm , góc X bằng 60 độ."
+39,Tứ giác,Cho hình vuông MNPQ có cạnh bằng 10cm . Vẽ hai đường chéo cắt nhau tại O .
+40,Tứ giác,Cho hình thoi ABCD có hai đường chéo AC = 6cm và BD = 6cm .
+41,Hình học không gian,"Cho hình lăng trụ đứng ABC .A'B'C' có đáy là tam giác đều cạnh 4cm , chiều cao h = 10cm ."
+42,Tứ giác,"Cho hình bình hành XYZT có XY = 5cm , YZ = 6cm , góc X bằng 30 độ."
+43,Tam giác,Cho tam giác XYZ nhọn . Vẽ đường cao XD và YE cắt nhau tại H .
+44,Tọa độ Oxyz,"Trong mặt phẳng tọa độ Oxy , cho đường thẳng d: 4x + 12y + 1 = 0 và điểm M(2 , 2)."
+45,Tam giác,"Cho tam giác XYZ cân tại X có XY = 3cm , góc X bằng 30 độ. Vẽ đường cao XH ."
+46,Tam giác,"Cho tam giác ABC vuông tại A , đường cao AH . Biết AB = 10cm , BC = 6cm ."
+47,Tam giác,Cho tam giác HIK đều cạnh bằng 10cm . Vẽ đường tròn ngoại tiếp tam giác HIK .
+48,Tam giác,"Cho tam giác MNPQ vuông tại M , đường cao MH . Biết MN = 3cm , NP = 6cm ."
+49,Tam giác,Cho tam giác MNP nhọn . Vẽ đường cao MD và NE cắt nhau tại H .
+50,Tứ giác,"Cho hình chữ nhật AXYZ có cạnh XY = 6cm , YZ = 4cm . Vẽ đường chéo XZ ."
+51,Tứ giác,"Cho hình chữ nhật MNPQ có cạnh MN = 12cm , NP = 12cm . Vẽ đường chéo MP ."
+52,Tứ giác,Cho hình vuông ABCD có cạnh bằng 12cm . Vẽ hai đường chéo cắt nhau tại O .
+53,Tứ giác,Cho hình vuông DEFG có cạnh bằng 6cm . Vẽ hai đường chéo cắt nhau tại O .
+54,Đường tròn,Cho tam giác XYZ nội tiếp đường tròn (O; 10cm). Tìm tâm đường tròn nội tiếp tam giác .
+55,Tứ giác,"Cho hình chữ nhật RXYZ có cạnh XY = 8cm , YZ = 6cm . Vẽ đường chéo XZ ."
+56,Đường tròn,Cho hai đường tròn (O; 8cm) và (O'; 10cm) tiếp xúc ngoài tại A . Vẽ tiếp tuyến chung .
+57,Đường tròn,Cho hai đường tròn (O; 3cm) và (O'; 10cm) tiếp xúc ngoài tại A . Vẽ tiếp tuyến chung .
+58,Đường tròn,"Cho đường tròn (O; 8cm) và điểm A nằm ngoài đường tròn sao cho OA = 6cm . Vẽ tiếp tuyến AB , AC ."
+59,Đường tròn,"Cho đường tròn (O; 6cm) và điểm A nằm ngoài đường tròn sao cho OA = 12cm . Vẽ tiếp tuyến AB , AC ."
+60,Tứ giác,"Cho hình chữ nhật RXYZ có cạnh XY = 8cm , YZ = 10cm . Vẽ đường chéo XZ ."
+61,Tứ giác,Cho hình vuông HIKN có cạnh bằng 6cm . Vẽ hai đường chéo cắt nhau tại O .
+62,Tứ giác,Cho hình vuông DEFG có cạnh bằng 8cm . Vẽ hai đường chéo cắt nhau tại O .
+63,Tọa độ Oxyz,"Trong mặt phẳng tọa độ Oxy , cho đường thẳng d: 5x + 4y + -1 = 0 và điểm M(3 , -1)."
+64,Tam giác,"Cho tam giác MNPQ vuông tại M có MN = 3cm , NP = 5cm . Tính cạnh MP ."
+65,Đường tròn,Cho tam giác HIK nội tiếp đường tròn (O; 6cm). Tìm tâm đường tròn nội tiếp tam giác .
+66,Tứ giác,"Cho hình bình hành ABCD có AB = 4cm , BC = 15cm , góc A bằng 45 độ."
+67,Hình học không gian,"Cho hình chóp S .DEF có đáy là tam giác vuông tại D , SA vuông góc với đáy . Biết SA = 4cm ."
+68,Hình học không gian,"Cho hình chóp S .XYZ có đáy là tam giác vuông tại X , SA vuông góc với đáy . Biết SA = 4cm ."
+69,Hình học không gian,Cho hình lập phương ABCD.A'B'C'D' có cạnh bằng 6cm .
+70,Tứ giác,"Cho hình bình hành MNPQ có MN = 5cm , NP = 6cm , góc M bằng 45 độ."
+71,Đường tròn,Cho tam giác HIK nội tiếp đường tròn (O; 10cm). Tìm tâm đường tròn nội tiếp tam giác .
+72,Đường tròn,"Cho đường tròn (O; 8cm) và điểm A nằm ngoài đường tròn sao cho OA = 8cm . Vẽ tiếp tuyến AB , AC ."
+73,Tọa độ Oxyz,"Trong không gian Oxyz , cho ba điểm A(10 ,0 ,0), B(0 ,4 ,0), C(0 ,0 ,3). Vẽ mặt phẳng (ABC)."
+74,Tứ giác,Cho hình thoi EXYZ có hai đường chéo XZ = 12cm và BD = 8cm .
+75,Đường tròn,Cho hai đường tròn (O; 6cm) và (O'; 4cm) tiếp xúc ngoài tại A . Vẽ tiếp tuyến chung .
+76,Tam giác,"Cho tam giác ABC vuông tại B . Biết AB = 8cm , BC = 10cm ."
+77,Tam giác,"Cho tam giác XYZ vuông tại X , đường cao XH . Biết XY = 12cm , YZ = 8cm ."
+78,Tứ giác,Cho hình vuông ABCD có cạnh bằng 6cm . Vẽ hai đường chéo cắt nhau tại O .
+79,Tam giác,Cho tam giác ABC đều cạnh bằng 6cm . Vẽ đường tròn ngoại tiếp tam giác ABC .
+80,Tam giác,"Cho tam giác MNP cân tại M có MN = 12cm . Vẽ đường cao MH ."
+81,Tam giác,"Cho tam giác XYZ vuông tại X , đường cao XH . Biết XY = 6cm , YZ = 12cm ."
+82,Tứ giác,"Cho hình chữ nhật ABCD có cạnh AB = 8cm , BC = 10cm . Vẽ đường chéo AC ."
+83,Tọa độ Oxyz,"Trong không gian Oxyz , cho ba điểm A(3 ,0 ,0), B(0 ,6 ,0), C(0 ,0 ,3). Vẽ mặt phẳng (ABC)."
+84,Tọa độ Oxyz,"Trong không gian Oxyz , cho ba điểm A(10 ,0 ,0), B(0 ,15 ,0), C(0 ,0 ,-5). Vẽ mặt phẳng (ABC)."
+85,Tam giác,Cho tam giác ABC nhọn . Vẽ đường cao AD và BE cắt nhau tại H .
+86,Hình học không gian,Cho hình lập phương MHIK.M'H'I'K' có cạnh bằng 10cm .
+87,Đường tròn,Cho đường tròn (O) đường kính DF = 10cm . Vẽ dây cung MN vuông góc với DF tại I .
+88,Tứ giác,"Cho hình thang XYZT vuông tại X và Y , có đáy nhỏ XT = 8cm , đáy lớn YZ = 15cm ."
+89,Đường tròn,"Cho đường tròn (O; 12cm) và điểm A nằm ngoài đường tròn sao cho OA = 5cm . Vẽ tiếp tuyến AB , AC ."
+90,Tọa độ Oxyz,"Trong không gian Oxyz , cho ba điểm A(8 ,0 ,0), B(0 ,12 ,0), C(0 ,0 ,2). Vẽ mặt phẳng (ABC)."
+91,Tứ giác,"Cho hình chữ nhật CDEF có cạnh DE = 6cm , EF = 5cm . Vẽ đường chéo DF ."
+92,Tứ giác,"Cho hình thang EFGH vuông tại E và F , có đáy nhỏ EH = 4cm , đáy lớn FG = 8cm ."
+93,Hình học không gian,"Cho hình chóp tứ giác đều S .ABCD có cạnh đáy bằng 8cm , cạnh bên bằng 15cm ."
+94,Tứ giác,Cho hình thoi MHIK có hai đường chéo HK = 4cm và MI = 8cm .
+95,Hình học không gian,"Cho hình lăng trụ đứng ABC .A'B'C' có đáy là tam giác đều cạnh 8cm , chiều cao h = 6cm ."
+96,Tứ giác,"Cho hình thang ABCD vuông tại A và B , có đáy nhỏ AD = 5cm , đáy lớn BC = 6cm ."
+97,Hình học không gian,"Cho hình lăng trụ đứng ABC .A'B'C' có đáy là tam giác đều cạnh 12cm , chiều cao h = 12cm ."
+98,Tứ giác,"Cho hình thang XYZT vuông tại X and Y , có đáy nhỏ XT = 7cm , đáy lớn YZ = 10cm ."
+99,Tứ giác,"Cho hình bình hành ABCD có AB = 5cm , BC = 5cm , góc A bằng 60 độ."
+100,Tam giác,"Cho tam giác ABC cân tại A có AB = 8cm , góc A bằng 30 độ. Vẽ đường cao AH ."
+101,Tọa độ Oxyz,"Trong không gian Oxyz , cho ba điểm A(5 ,0 ,0), B(0 ,8 ,0), C(0 ,0 ,2). Vẽ mặt phẳng (ABC)."
+102,Tứ giác,"Cho hình thang ABCD vuông tại A and B , có đáy nhỏ AB = 12cm , đáy lớn BC = 18cm ."
+103,Tọa độ Oxyz,"Trong không gian Oxyz , cho ba điểm A(10 ,0 ,0), B(0 ,12 ,0), C(0 ,0 ,-2). Vẽ mặt phẳng (ABC)."
+104,Tứ giác,"Cho hình bình hành EFGH có EF = 3cm , FG = 10cm , góc E bằng 120 độ."
+105,Tứ giác,Cho hình thoi MNPQ có hai đường chéo MP = 12cm và NQ = 10cm .
+106,Tứ giác,Cho hình vuông CDEF có cạnh bằng 5cm . Vẽ hai đường chéo cắt nhau tại O .
+107,Tam giác,Cho tam giác ABC đều cạnh bằng 4cm .
+108,Tứ giác,"Cho hình bình hành XYZT có XY = 5cm , YZ = 12cm , góc X bằng 45 độ."
+109,Tọa độ Oxyz,"Trong không gian Oxyz , cho ba điểm A(10 ,0 ,0), B(0 ,15 ,0), C(0 ,0 ,-1). Vẽ mặt phẳng (ABC)."
+110,Tứ giác,"Cho hình thang XYZT vuông tại X and Y , có đáy nhỏ XT = 5cm , đáy lớn YZ = 12cm ."
+111,Hình học không gian,"Cho hình chóp S .HIK có đáy là tam giác vuông tại H , SA vuông góc với đáy . Biết SA = 3cm ."
+112,Hình học không gian,"Cho hình chóp S .MNPQ có đáy là tam giác vuông tại M , SA vuông góc với đáy . Biết SA = 3cm ."
+113,Tọa độ Oxyz,"Trong không gian Oxyz , cho ba điểm A(8 ,0 ,0), B(0 ,4 ,0), C(0 ,0 ,5). Vẽ mặt phẳng (ABC)."
+114,Hình học không gian,Cho hình lập phương ABC có cạnh bằng 10cm .
+115,Hình học không gian,"Cho hình chóp tứ giác đều S .EFGH có cạnh đáy bằng 5cm , cạnh bên bằng 8cm ."
+116,Tứ giác,Cho hình thoi XYZT có hai đường chéo XZ = 10cm and YT = 8cm .
+117,Tứ giác,"Cho hình thang ABCD vuông tại A and B , có đáy nhỏ AD = 5cm , đáy lớn BC = 7cm ."
+118,Tứ giác,Cho hình vuông MNPQ có cạnh bằng 8cm . Vẽ hai đường chéo cắt nhau tại O .
+119,Tứ giác,"Cho hình thang ABCD vuông tại A and B , có đáy nhỏ AD = 3cm , đáy lớn BC = 5cm ."
+120,Tọa độ Oxyz,"Trong mặt phẳng tọa độ Oxy , cho đường thẳng d: 12x + 5y + 5 = 0 và điểm M(2 , 2)."
+121,Đường tròn,Cho hai đường tròn (O; 3cm) và (O'; 5cm) tiếp xúc ngoài tại A . Vẽ tiếp tuyến chung .
+122,Tứ giác,Cho hình thoi MNPQ có hai đường chéo MP = 8cm and NQ = 12cm .
+123,Hình học không gian,"Cho hình chóp S .EFGH có đáy là tam giác vuông tại E , SA vuông góc với đáy . Biết SA = 8cm ."
+124,Đường tròn,"Cho đường tròn (O; 12cm) và điểm A nằm ngoài đường tròn sao cho OA = 10cm . Vẽ tiếp tuyến AB , AC ."
+125,Tọa độ Oxyz,"Trong không gian Oxyz , cho ba điểm A(10 ,0 ,0), B(0 ,8 ,0), C(0 ,0 ,-1). Vẽ mặt phẳng (ABC)."
+126,Hình học không gian,"Cho hình lăng trụ đứng ABC .A'B'C' có đáy là tam giác đều cạnh 12cm , chiều cao h = 10cm ."
+127,Tứ giác,"Cho hình bình hành EFGH có EF = 8cm , FG = 8cm , góc E bằng 60 độ."
+128,Đường tròn,Cho tam giác MNP nội tiếp đường tròn (O; 6cm). Tìm tâm đường tròn nội tiếp tam giác .
+129,Hình học không gian,Cho hình lập phương ABC có cạnh bằng 8cm .
+130,Tam giác,"Cho tam giác XYZ vuông tại X , đường cao XH . Biết XY = 6cm , YZ = 15cm ."
+131,Đường tròn,"Cho đường tròn (O; 8cm) và điểm A nằm ngoài đường tròn sao cho OA = 12cm . Vẽ tiếp tuyến AB , AC ."
+132,Hình học không gian,"Cho hình chóp tứ giác đều S .ABCD có cạnh đáy bằng 12cm , cạnh bên bằng 10cm ."
+133,Đường tròn,Cho hai đường tròn (O; 3cm) và (O'; 15cm) tiếp xúc ngoài tại A . Vẽ tiếp tuyến chung .
+134,Tam giác,"Cho tam giác EFG vuông tại E có EF = 3cm , FG = 6cm . Tính cạnh EG ."
+135,Tam giác,"Cho tam giác ABC vuông tại A , đường cao AH . Biết AB = 4cm , BC = 10cm ."
+136,Tọa độ Oxyz,"Trong mặt phẳng tọa độ Oxy , cho đường thẳng d: 12x + 8y + 3 = 0 và điểm M(2 , 4)."
+137,Hình học không gian,"Cho hình chóp S .DEF có đáy là tam giác vuông tại D , SA vuông góc với đáy . Biết SA = 10cm ."
+138,Tứ giác,"Cho hình chữ nhật MHIK có cạnh HI = 3cm , IK = 8cm . Vẽ đường chéo HK ."
+139,Tứ giác,Cho hình thoi DEFG có hai đường chéo DF = 4cm and EG = 8cm .
+140,Đường tròn,Cho đường tròn (O) đường kính XZ = 8cm . Vẽ dây cung MN vuông góc với XZ tại I .
+141,Tam giác,"Cho tam giác MNPQ vuông tại M có MN = 8cm , NP = 15cm . Tính cạnh MP ."
+142,Tọa độ Oxyz,"Trong mặt phẳng tọa độ Oxy , cho đường thẳng d: 12x + 6y + -1 = 0 và điểm M(2 , 2)."
+143,Tam giác,"Cho tam giác ABC cân tại A có AB = 5cm , góc A bằng 45 độ. Vẽ đường cao AH ."
+144,Tứ giác,Cho hình thoi DEFG có hai đường chéo DF = 5cm and EG = 12cm .
+145,Đường tròn,Cho đường tròn (O) đường kính XZ = 8cm . Vẽ dây cung MN vuông góc với XZ tại I .
+146,Đường tròn,"Cho đường tròn (O; 12cm) và điểm A nằm ngoài đường tròn sao cho OA = 4cm . Vẽ tiếp tuyến AB , AC ."
+147,Hình học không gian,"Cho hình lăng trụ đứng ABC .A'B'C' có đáy là tam giác đều cạnh 5cm , chiều cao h = 4cm ."
+148,Hình học không gian,"Cho hình chóp S .MNPQ có đáy là tam giác vuông tại M , SA vuông góc với đáy . Biết SA = 5cm ."
+149,Hình học không gian,"Cho hình chóp tứ giác đều S .MHIK có cạnh đáy bằng 3cm , cạnh bên bằng 10cm ."
+150,Tứ giác,Cho hình thoi XYZT có hai đường chéo XZ = 10cm and YT = 8cm .
+151,Hình học không gian,"Cho hình chóp tứ giác đều S .EFGH có cạnh đáy bằng 3cm , cạnh bên bằng 4cm ."
+152,Tọa độ Oxyz,"Trong không gian Oxyz , cho ba điểm A(10 ,0 ,0), B(0 ,12 ,0), C(0 ,0 ,-1). Vẽ mặt phẳng (ABC)."
+153,Đường tròn,Cho hai đường tròn (O; 5cm) và (O'; 4cm) tiếp xúc ngoài tại A . Vẽ tiếp tuyến chung .
+154,Tứ giác,"Cho hình bình hành EFGH có EF = 12cm , FG = 6cm , góc E bằng 30 độ."
+155,Tứ giác,"Cho hình thang ABCD vuông tại A and B , có đáy nhỏ AD = 4cm , đáy lớn BC = 4cm ."
+156,Đường tròn,"Cho đường tròn (O; 4cm) và điểm A nằm ngoài đường tròn sao cho OA = 5cm . Vẽ tiếp tuyến AB , AC ."
+157,Tứ giác,Cho hình vuông XYZT có cạnh bằng 12cm . Vẽ hai đường chéo cắt nhau tại O .
+158,Tam giác,"Cho tam giác MNP vuông tại M , đường cao MH . Biết MN = 4cm , NP = 10cm ."
+159,Tam giác,"Cho tam giác XYZ vuông tại X có XY = 5cm , YZ = 15cm ."
+160,Tam giác,"Cho tam giác HIK cân tại H có HI = 4cm , góc H bằng 120 độ. Vẽ đường cao HN ."
+161,Đường tròn,Cho đường tròn (O) đường kính DF = 8cm . Vẽ dây cung MN vuông góc với DF tại I .
+162,Tứ giác,Cho hình thoi MHIK có hai đường chéo HK = 6cm and MI = 12cm .
+163,Tam giác,Cho tam giác DEF nhọn . Vẽ đường cao DI và EH cắt nhau tại O .
+164,Tam giác,"Cho tam giác EFG vuông tại E , đường cao EH . Biết EF = 3cm , FG = 5cm ."
+165,Hình học không gian,Cho hình lập phương HIKM.ABCD có cạnh bằng 8cm .
+166,Tứ giác,"Cho hình bình hành XYZT có XY = 6cm , YZ = 6cm , góc X bằng 30 độ."
+167,Đường tròn,Cho hai đường tròn (O; 5cm) và (O'; 12cm) tiếp xúc ngoài tại A . Vẽ tiếp tuyến chung .
+168,Tam giác,Cho tam giác MNP đều cạnh bằng 12cm . Vẽ đường tròn ngoại tiếp tam giác MNP .
+169,Hình học không gian,"Cho hình lăng trụ đứng ABC .A'B'C' có đáy là tam giác đều cạnh 3cm , chiều cao h = 10cm ."
+170,Đường tròn,Cho đường tròn (O) đường kính XZ = 12cm . Vẽ dây cung MN vuông góc với XZ tại I .
+171,Tam giác,Cho tam giác ABC nhọn . Vẽ đường cao AD và BE cắt nhau tại H .
+172,Đường tròn,Cho đường tròn (O) đường kính HK = 12cm . Vẽ dây cung MN vuông góc với HK tại I .
+173,Hình học không gian,"Cho hình lăng trụ đứng ABC .A'B'C' có đáy là tam giác đều cạnh 12cm , chiều cao h = 15cm ."
+174,Tứ giác,"Cho hình chữ nhật MNPQ có cạnh MN = 5cm , NP = 12cm . Vẽ đường chéo MP ."
+175,Tam giác,"Cho tam giác ABC vuông tại A , đường cao AH . Biết AB = 8cm , BC = 12cm ."
+176,Hình học không gian,Cho hình lập phương XYZT.ABCD có cạnh bằng 4cm .
+177,Tứ giác,Cho hình thoi MNPQ có hai đường chéo MP = 10cm and NQ = 6cm .
+178,Tọa độ Oxyz,"Trong mặt phẳng tọa độ Oxy , cho đường thẳng d: 3x + 12y + -2 = 0 và điểm M(3 , 4)."
+179,Tọa độ Oxyz,"Trong mặt phẳng tọa độ Oxy , cho đường thẳng d: 6x + 8y + 1 = 0 và điểm M(2 , -3)."
+180,Tam giác,Cho tam giác MNP nhọn . Vẽ đường cao MD và NE cắt nhau tại H .
+181,Đường tròn,Cho tam giác MNP nội tiếp đường tròn (O; 8cm) .
+182,Tứ giác,"Cho hình thang MNPQ vuông tại M và N , có đáy nhỏ MQ = 5cm , đáy lớn NP = 6cm ."
+183,Tam giác,"Cho tam giác EFG vuông tại E , đường cao EH . Biết EF = 6cm , FG = 10cm ."
+184,Tam giác,"Cho tam giác DEF cân tại D có DE = 6cm , góc D bằng 120 độ. Vẽ đường cao DH ."
+185,Đường tròn,Cho tam giác ABC nội tiếp đường tròn (O; 10cm) .
+186,Đường tròn,"Cho đường tròn (O; 4cm) và điểm A nằm ngoài đường tròn sao cho OA = 15cm . Vẽ tiếp tuyến AB , AC ."
+187,Tam giác,Cho tam giác XYZ nhọn . Vẽ đường cao XD và YE cắt nhau tại H .
+188,Đường tròn,"Cho đường tròn (O; 4cm) và điểm A nằm ngoài đường tròn sao cho OA = 6cm . Vẽ tiếp tuyến AB , AC ."
+189,Đường tròn,Cho đường tròn (O) đường kính MP = 10cm . Vẽ dây cung MN vuông góc với MP tại I .
+190,Tứ giác,"Cho hình thang EFGH vuông tại E and F , có đáy nhỏ EH = 4cm , đáy lớn FG = 5cm ."
+191,Hình học không gian,"Cho hình chóp S .ABC có đáy là tam giác vuông tại A , SA vuông góc với đáy . Biết SA = 12cm ."
+192,Hình học không gian,"Cho hình chóp tứ giác đều S .XYZT có cạnh đáy bằng 6cm , cạnh bên bằng 12cm ."
+193,Hình học không gian,"Cho hình chóp S .ABC có đáy là tam giác vuông tại A , SA vuông góc với đáy . Biết SA = 6cm ."
+194,Tọa độ Oxyz,"Trong mặt phẳng tọa độ Oxy , cho đường thẳng d: 8x + 10y + 2 = 0 và điểm M(4 , -3)."
+195,Tứ giác,Cho hình vuông ABCD có cạnh bằng 5cm . Vẽ hai đường chéo cắt nhau tại O .
+196,Đường tròn,"Cho đường tròn (O; 10cm) và điểm A nằm ngoài đường tròn sao cho OA = 4cm . Vẽ tiếp tuyến AB , AC ."
+197,Hình học không gian,"Cho hình chóp S .HIK có đáy là tam giác vuông tại H , SA vuông góc với đáy . Biết SA = 8cm ."
+198,Đường tròn,Cho hai đường tròn (O; 12cm) và (O'; 6cm) tiếp xúc ngoài tại A . Vẽ tiếp tuyến chung .
+199,Tam giác,Cho tam giác XYZ nhọn . Vẽ đường cao XD và YE cắt nhau tại H .
+200,Tam giác,Cho tam giác MNP đều cạnh bằng 8cm . Vẽ đường tròn ngoại tiếp tam giác MNP .
+201,Hình học không gian,Cho hình chóp S .ABCD có đáy ABCD là hình vuông cạnh 5cm .
+202,Hình học không gian,Cho hình chóp S .ABC có đáy ABC là tam giác vuông tại B .
+203,Hình học không gian,"Cho hình chóp S .ABCD có đáy là hình chữ nhật , biết SA = 7cm ."
+204,Hình học không gian,Cho hình chóp S .ABC có đáy ABC là tam giác đều cạnh 3cm .
+205,Hình học không gian,"Cho hình chóp S .ABCD có SA vuông góc với đáy , biết SA = 6cm ."
+206,Hình học không gian,Cho hình chóp S .MNPQ có đáy MNPQ là hình vuông cạnh 4cm .
+207,Hình học không gian,Cho hình chóp S .ABC có đáy là tam giác cân tại A .
+208,Hình học không gian,"Cho hình chóp S .ABCD có đáy ABCD là hình vuông , biết AB = 5cm ."
+209,Hình học không gian,"Cho hình chóp S .XYZ có đường cao SA , biết SA = 9cm ."
+210,Hình học không gian,Cho hình chóp S .ABCD có đáy là hình chữ nhật có AB = 3cm .
+211,Hình học không gian,"Cho hình chóp S .ABC có đáy ABC vuông tại A , biết BC = 5cm ."
+212,Hình học không gian,Cho hình chóp S .MNPQ có SA vuông góc với mặt phẳng đáy .
+213,Hình học không gian,Cho hình chóp S .ABCD có đáy ABCD là hình vuông tâm O .
+214,Hình học không gian,Cho hình chóp S .ABC có đường cao SH vuông góc với đáy .
+215,Hình học không gian,"Cho hình chóp S .ABCD có đáy là hình vuông , đường cao SA = 4cm ."
+216,Hình học không gian,"Cho hình chóp S .ABC có đáy là tam giác đều , biết SH = 6cm ."
+217,Hình học không gian,Cho hình chóp S .MNPQ có đáy MNPQ là hình chữ nhật cạnh 6cm .
+218,Hình học không gian,Cho hình chóp S .ABCD có đáy ABCD là hình thoi cạnh 5cm .
+219,Hình học không gian,"Cho hình chóp S .ABC có đáy ABC cân tại B , biết SB = 8cm ."
+220,Hình học không gian,Cho hình chóp S .XYZ có đáy XYZ là tam giác vuông tại Y .
+221,Hình học không gian,Cho hình chóp S .ABCD có cạnh bên SA vuông góc với đáy .
+222,Hình học không gian,Cho hình chóp S .ABC có đường cao SA = 5cm .
+223,Hình học không gian,"Cho hình chóp S .MNPQ có đáy là hình chữ nhật , biết MN = 4cm ."
+224,Hình học không gian,Cho hình chóp S .ABCD có đáy là hình vuông cạnh bằng 6cm .
+225,Hình học không gian,"Cho hình chóp S .ABC có đáy là tam giác vuông tại C , đường cao SA ."
+226,Hình học không gian,Cho hình lập phương ABCD .A'B'C'D' có cạnh bằng 4cm .
+227,Hình học không gian,Cho hình lập phương MNPQ .M'N'P'Q' có cạnh bằng 5cm .
+228,Hình học không gian,Cho hình lập phương ABCD .A'B'C'D' có đường chéo AC' = 6cm .
+229,Hình học không gian,Cho hình lập phương A1B1C1D1 .A2B2C2D2 có cạnh bằng 3cm .
+230,Hình học không gian,Cho hình lập phương ABCD .A'B'C'D' biết AB = 6cm .
+231,Hình học không gian,Cho hình lập phương MNPQ .M'N'P'Q' có đường chéo bằng 9cm .
+232,Hình học không gian,Cho hình lập phương ABCD .A'B'C'D' có cạnh bằng 7cm .
+233,Hình học không gian,Cho hình lập phương MNPQ .M'N'P'Q' biết MN = 3cm .
+234,Hình học không gian,Cho hình lập phương ABCD .A'B'C'D' có cạnh bằng 2cm .
+235,Hình học không gian,Cho hình lập phương A1B1C1D1 .A2B2C2D2 biết A1B1 = 5cm .
+236,Hình học không gian,Cho hình lập phương ABCD .A'B'C'D' có cạnh AB = 4cm .
+237,Hình học không gian,Cho hình lập phương MNPQ .M'N'P'Q' có cạnh bằng 8cm .
+238,Hình học không gian,Cho hình lập phương ABCD .A'B'C'D' có cạnh bằng 10cm .
+239,Hình học không gian,Cho hình lập phương XYZT .X'Y'Z'T' có cạnh bằng 4cm .
+240,Hình học không gian,Cho hình lập phương ABCD .A'B'C'D' biết cạnh AA' = 5cm .
+241,Hình học không gian,Cho hình lập phương MNPQ .M'N'P'Q' có cạnh bằng 6cm .
+242,Hình học không gian,Cho hình lập phương ABCD .A'B'C'D' biết đường chéo bằng 5cm .
+243,Hình học không gian,Cho hình lập phương A1B1C1D1 .A2B2C2D2 có cạnh bằng 2cm .
+244,Hình học không gian,Cho hình lập phương XYZT .X'Y'Z'T' biết XX' = 6cm .
+245,Hình học không gian,Cho hình lập phương ABCD .A'B'C'D' có cạnh bằng 3cm .
+246,Hình học không gian,Cho hình lập phương MNPQ .M'N'P'Q' có cạnh bằng 7cm .
+247,Hình học không gian,Cho hình lập phương ABCD .A'B'C'D' biết AD = 4cm .
+248,Hình học không gian,Cho hình lập phương A1B1C1D1 .A2B2C2D2 có cạnh bằng 8cm .
+249,Hình học không gian,Cho hình lập phương XYZT .X'Y'Z'T' có cạnh bằng 5cm .
+250,Hình học không gian,Cho hình lập phương ABCD .A'B'C'D' có cạnh bằng 12cm .
+251,Đường tròn,Cho đường tròn tâm O đường kính 6cm.
+252,Đường tròn,Cho đường tròn tâm O đường kính 12cm.
+253,Đường tròn,Cho đường tròn tâm O đường kính 14cm.
+254,Đường tròn,Cho đường tròn tâm O đường kính 8cm.
+255,Đường tròn,Cho đường tròn tâm O đường kính 16cm.
+256,Đường tròn,Cho đường tròn tâm O bán kính 3cm.
+257,Đường tròn,Cho đường tròn tâm O bán kính 4cm.
+258,Đường tròn,Cho đường tròn tâm O bán kính 5cm.
