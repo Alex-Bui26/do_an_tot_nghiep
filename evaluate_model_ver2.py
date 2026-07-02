@@ -10,14 +10,14 @@ CSV_TEST_PATH = os.path.join("DATASET", "test_data.csv")
 def evaluate_model():
 
     if not os.path.exists(MODEL_DIR):
-        print("❌ Không tìm thấy model.")
+        print("Không tìm thấy model.")
         return
 
     if not os.path.exists(CSV_TEST_PATH):
-        print("❌ Không tìm thấy test_data.csv")
+        print("Không tìm thấy test_data.csv")
         return
 
-    print("📦 Loading model...")
+    print("Loading model...")
     nlp = spacy.load(MODEL_DIR)
 
     df = pd.read_csv(CSV_TEST_PATH)
@@ -34,7 +34,7 @@ def evaluate_model():
     total_values = 0
     total_constraints = 0
 
-    print("\n📊 Evaluating...")
+    print("\nEvaluating...")
 
     for _, row in df.iterrows():
 
