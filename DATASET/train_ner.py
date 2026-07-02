@@ -25,9 +25,7 @@ def setup_custom_tokenizer(nlp):
     nlp.tokenizer.suffix_search = suffix_regex.search
     return nlp
 
-# =======================================================
 # CORE ENGINE: TOKEN-BASED AUTOMATIC ENTITY ANNOTATOR
-# =======================================================
 def build_perfect_training_data(csv_path, nlp):
     df = pd.read_csv(csv_path)
     training_data = []
@@ -39,7 +37,7 @@ def build_perfect_training_data(csv_path, nlp):
         text = str(row['Geometry_Problem']).strip()
         doc = nlp.make_doc(text)
         
-        # Sử dụng hệ thống Matcher mạnh mẽ của spaCy thay cho regex thô sơ
+        # Sử dụng hệ thống Matcher của spaCy thay cho regex thô sơ
         matcher = Matcher(nlp.vocab)
         
         # Pattern 1: Tìm VALUES (Ví dụ: AB = 5cm, MN = 4 cm, hoặc số kèm cm đứng độc lập)
@@ -75,7 +73,6 @@ def build_perfect_training_data(csv_path, nlp):
             entities.append((match.start(), match.end(), "POINTS"))
             
         # THUẬT TOÁN ĐỒ THỊ KHỬ TRÙNG LẶP & ĐÈ NHÃN (Entity Resolution Greedy Loop)
-        # Sắp xếp theo chiều dài giảm dần (Ưu tiên các cụm từ ghép phức tạp trước)
         sorted_ents = sorted(entities, key=lambda x: (x[0], -(x[1] - x[0])))
         clean_entities = []
         last_end = -1
@@ -108,7 +105,7 @@ def train_high_precision_ner(training_data, iterations=35):
     ner.add_label("VALUES")
     ner.add_label("CONSTRAINTS")
     
-    # Sử dụng cấu hình drop-out động để chống Overfitting (Học vẹt)
+    # Sử dụng cấu hình drop-out động để chống Overfitting
     optimizer = nlp.begin_training()
     print(f"\n--- Khởi động chu kỳ huấn luyện độ chính xác cao ({iterations} Epochs) ---")
     
@@ -154,11 +151,9 @@ if __name__ == "__main__":
         optimized_nlp.to_disk(model_dir)
         print(f"\n--- ĐÃ ĐỒNG BỘ VÀ LƯU MÔ HÌNH HOÀN HẢO TẠI: '{model_dir}' ---")
         
-        # =======================================================
         # KIỂM THỬ THỰC TẾ KHÔNG CẦN QUA HÀM CLEAN CHUỖI
-        # =======================================================
         print("\n--- KIỂM THỬ ĐÁNH GIÁ MÔ HÌNH SAU NÂNG CẤP ---")
-        test_sentence = "Cho tam giác MNPQ vuông tại M, biết MN = 5cm và đường cao MH."
+        test_sentence = "Cho tam giác MNP vuông tại M, biết MN = 5cm và đường cao MH."
         
         nlp_production = spacy.load(model_dir)
         doc = nlp_production(test_sentence)
