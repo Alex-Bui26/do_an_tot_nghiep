@@ -12,7 +12,6 @@ def split_my_dataset(csv_path, train_ratio=0.8):
     print(f"--- Tổng số mẫu dữ liệu gốc: {total_rows} câu ---")
     
     # 2. Xáo trộn ngẫu nhiên dữ liệu (Shuffle)
-    # random_state=42 giúp cố định kết quả xáo trộn giữa các lần chạy (đảm bảo tính tái lập trong nghiên cứu)
     df_shuffled = df.sample(frac=1, random_state=42).reset_index(drop=True)
     
     # 3. Tính toán vị trí cắt dữ liệu
@@ -27,7 +26,7 @@ def split_my_dataset(csv_path, train_ratio=0.8):
     train_file = os.path.join(dir_name, "train_data.csv")
     test_file = os.path.join(dir_name, "test_data.csv")
     
-    # Lưu xuống ổ đĩa dạng UTF-8 có BOM để Excel không bị lỗi font tiếng Việt
+    # Lưu xuống ổ đĩa dạng UTF-8
     train_df.to_csv(train_file, index=False, encoding='utf-8-sig')
     test_df.to_csv(test_file, index=False, encoding='utf-8-sig')
     
@@ -41,6 +40,6 @@ if __name__ == "__main__":
     target_csv = "DATASET/DATASET.csv" 
     
     if not os.path.exists(target_csv):
-        target_csv = "DATASET.csv" # Phòng hờ nếu bạn đứng trực tiếp ở thư mục DATASET
+        target_csv = "DATASET.csv"
         
     split_my_dataset(target_csv)
